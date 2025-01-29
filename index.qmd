@@ -1,5 +1,5 @@
 ---
-title: "J. Hathaway"
+title: "Kevin Clark"
 format:
   html:
     toc: true
@@ -19,10 +19,10 @@ format-links: [pdf]
 ```{python}
 #| tags: [parameters]
 
-email = 'j@jhathaway.io'
-github = 'hathawayj'
-linkedin =  'hathawayj'
-telephone = '208.932.8306'
+email = 'tevin98@gmail.com'
+github = 'kevinwc3'
+linkedin =  'kevinclark'
+telephone = '208 760-2902'
 ```
 
 ```{python}
@@ -74,30 +74,65 @@ cynthia.huang@monash.edu
 
 ## EDUCATION
 
-**Doctor of Philosophy -- Econometrics and Business Statistics** <br> *Monash University* [*Aug 2021 --- Present*]{.cvdate}
+**Bachelor's -- Data Science** <br> *Brigham Young University-Idaho* **Graduation:** [*Apr 2025*]{.cvdate}
 
--   New principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images
--   Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
--   Expected submission date: Nov 2024
+## Certificates and Skills
+
+- Statistics Certificate (Brigham Young University - Idaho)
+- Machine Learning Certificate (Brigham Young University - Idaho)
+- Coding (Python, R, SQL)
+- Data Visualization (Power BI, Python, R, Excel, Tableau)
+- Classwork (Big Data Programming, Data Wrangling and Visualization, Applied Calculus, Linear Algebra)
 
 ## WORK EXPERIENCE{style="page-break-before: always"}
 
-### Data Scientist
+### Data Science Intern / BI Analyst
 
-***Freelance, Multiple Clients*** [Jan 2020 -- June 2021]{.cvdate}
+***Eastern Idaho Public Health*** [Sep 2024 -- Present]{.cvdate}
 
-Providing data collection, pre-processing, exploratory analysis and modelling services to clients in the early R&D stages of developing data driven products. Projects include:
+- Trained Epidemiologists, Fiscal Officers, and Executive Officers on how to create reports in Power BI.
+- Rebuilt and created Power BI dashboards on over 100,000 patients and appointments.
+- Rerouted various reports to update more autonomously.
+- Created visualizations and wrangled data in R and Python.
 
--   Data description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.
--   Development of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package.
+### HR Data Analyst Intern
+
+***Church of Jesus Christ of Latter-day Saints*** [Apr 2023 -- Apr 2024]{.cvdate}
+
+- Designed a dashboard in Power BI to visualize HR related data of over 1300 employees.
+- Wrote code in Python to wrangle and transform over 800,000 rows of data for my dashboard.
+- Automated weekly auditing processes with Python.
+- Presented orientation for new hires bi-weekly.
+
+### Student Researcher and Measurement Specialist
+
+***Brigham Young University - Idaho*** [November 2021 -- Present]{.cvdate}
+
+- Maintained dashboards in Power BI with data for over 20,000 students.
+- Tested Qualtrics surveys in R and Python to make sure data was being recorded properly.
+- Analyzed data to determine what contributed the most to student success.
+- Wrangled and combined over 20 datasets in R to make our data easier to analyze.
+- Built and distributed multiple surveys in Qualtrics for over 20,000 students every semester.
 
 ::: {.no-print}
-## PRESENTATIONS AND WORKSHOPS
+## Projects
 
--   Talk: [Misadventures with Reproducibility in R](https://github.com/cynthiahqy/rladies-2022-11) (30 Nov 2022, R Ladies Melbourne Meetup)
--   Talk: [Designing R Packages](https://github.com/cynthiahqy/design-r-magic_2022-10) (4 Oct 2022, Monash EBS Data Science Research Software Study Group)
--   Talk: [Quarto Websites as Research Compendiums](https://github.com/cynthiahqy/quarto-wiki-template) (16 Aug 2022, Monash EBS Data Science Research Software Study Group)
--   Workshop: [Writing academic papers with Rmarkdown and friends](https://www.cynthiahqy.com/posts/r-markdown-and-friends/) (9 Aug 2022, Monash University)
+### Data Science Society
+
+***Student*** [Jan 2023 -- Jul 2024]{.cvdate}
+
+- Cleaned datasets containing thousands of variables to determine how accurate our data was.
+- Communicated with multiple team members and faculty to make sure we were all contributing and on the same page.
+- Compared our clean data using the ANOVA test to find significant variance.
+
+### Data Science Consulting
+
+***Student*** [Sep 2024 -- Dec 2024]{.cvdate}
+
+- Constructed thousands of rows of artificial data in Python.
+- Calculated TF-IDF scores for clustering documents.
+- Visualized 10,000 clustered documents over a time series.
+
 :::
 
 ::: {.print-only}
